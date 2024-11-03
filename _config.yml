@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Mahdy Rahman Chowdhury"
 description              : &description "Associate Professor, North South University; PhD in National Univ. of Singapore (QS world rank: 8th)"
 url                      : https://mdy-academic-page.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/mdy-academic-page.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "mdy-profile.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Mahdy Rahman Chowdhury"
   pronouns         : # example: "she/her"  
   bio              : "Experienced Associate Professor with a demonstrated history of working in the higher education industry. Skilled in Electrodynamics, Optics/Photonics, Quantum Mechanics & Quantum Computing/Information, Applied Machine Learning, and Electrical Engineering. Strong education professional with a Doctor of Philosophy (Ph.D.) focused in Electromagnetics, Photonics, Plasmonics, Tractor beam, Einstein-Laub Equations & Quantum Mechanics from National University of Singapore."
   location         : "Earth"
   employer         : "North South University"
-  uri              : # URL
+  uri              : "https://mdy-academic-page.github.io" # URL
   email            : "none@example.org" 
 
   # Academic websites
