@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mahdy Rahman Chowdhury"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mahdy Rahman Chowdhury"
+description              : &description "Associate Professor, North South University; PhD in National Univ. of Singapore (QS world rank: 8th)"
+url                      : "https://mdy-academic-page.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,18 +21,18 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mdy-profile.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Experienced Associate Professor with a demonstrated history of working in the higher education industry. Skilled in Electrodynamics, Optics/Photonics, Quantum Mechanics & Quantum Computing/Information, Applied Machine Learning, and Electrical Engineering. Strong education professional with a Doctor of Philosophy (Ph.D.) focused in Electromagnetics, Photonics, Plasmonics, Tractor beam, Einstein-Laub Equations & Quantum Mechanics from National University of Singapore."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "North South University"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=PxNOguMAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
