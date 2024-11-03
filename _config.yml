@@ -12,7 +12,7 @@ title                    : "Mahdy Rahman Chowdhury"
 title_separator          : "-"
 name                     : &name "Mahdy Rahman Chowdhury"
 description              : &description "Associate Professor, North South University; PhD in National Univ. of Singapore (QS world rank: 8th)"
-url                      : https://mdy-academic-page.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mdy-academic-page.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
